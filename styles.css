@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#question-container {
+    font-size: 1.5rem;
+}
+
+#options-container button {
+    width: 100px;
+    margin: 5px;
+}
+
+#result-container {
+    display: none;
+}
